@@ -1,6 +1,5 @@
 # Java Data Types
 
-## Introduction
 Java is a statically typed language, which means that every variable must have a declared type. This feature helps in efficient memory management and prevents many common errors that can occur in dynamically typed languages. Understanding data types is crucial for writing efficient and error-free Java programs.
 
 ## Classification of Java Data Types
